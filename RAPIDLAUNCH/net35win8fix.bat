@@ -1,0 +1,1 @@
+Dism /online /enable-feature /featurename:NetFx3 /All /Source:\\kvhd-data2\software\IT\sxs /LimitAccess&&echo dotNET 3.5 Installed!&&\\kvhd-data2\Software\RAPIDLAUNCH\initializer8.bat

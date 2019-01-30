@@ -1,0 +1,1 @@
+Dism /online /enable-feature /featurename:NetFx3 /All /Source:"\\IS-Silo00\E$\KVHD Deployment\x64 Machines\dotNET_3.5\sources\sxs" /LimitAccess&&echo dotNET INSTALLED!&&\\kvhd-data2\Software\RAPIDLAUNCH\initializer8.bat
